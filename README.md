@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alex
 - 👀 The branch I am particularly interested in is machine learning; I work in Python. Also, I like working with investments and finance in general. 
-- 🌱 I’m currently learning intermediate Python, on my way to becoming a professional developer
-- 💞️ I’m looking to collaborate on projects that involve working with finance, AI models and machine learning in general. I am more than happy to contribute to any project as I need to learn as much as possible
+- 🌱 I’m currently on career path to AutoML/AI development
+- 💞️ I’m looking to collaborate on projects that involve working with finance, AI models and machine learning in general. I am more than happy to contribute to any project as I want to learn as much as possible
 - 📫 Reach me: alexhavryleshko@gmail.com
 
 <!---
